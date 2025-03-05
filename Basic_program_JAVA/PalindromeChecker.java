@@ -1,9 +1,5 @@
-package Assignment_1_All;
 
 import java.util.Scanner;
-
-//Q8 palindrome checker
-
 public class PalindromeChecker {
 	public static void palindrome(int number) {
 		int temp=number;
